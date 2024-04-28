@@ -1,0 +1,2188 @@
+--------unfix decoder---------
+ * Serving Flask app 'over'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6006
+ * Running on http://172.17.0.4:6006
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 159.19it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 127.74it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.13it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.66it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.24it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.62it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.70it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.88it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.99it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.05it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.07it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.12it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.09it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.08it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.07it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.06it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.08it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.10it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.10it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.02it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.00it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.98it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.03it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.06it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.92it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 16.99it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.03it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.93it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.9989 sec |   0.9988 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.9990 sec |   0.9989 sec) Done, building geometries (verts:61363 faces:122846 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  1.4463 sec |   1.4462 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  1.4463 sec |   1.4463 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 23.96
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000367 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000027 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000147 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000135 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000040 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000048 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000011 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000009 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000011 sec)
+
+FBX export fetch meshes (1)...
+	Done (1.443495 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000307 sec)
+
+FBX export fetch remaining...
+	Done (0.000023 sec)
+
+FBX export fetch animations...
+	Done (0.000016 sec)
+
+export finished in 1.4512 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:39:33] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.055001974105835
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.008618354797363281
+ pd2:0.008372306823730469
+ pd3:2.567941904067993
+ pd4:6.8895368576049805
+ pd5:28.216119289398193
+ all:37.69058871269226
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 287.42it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 110.68it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.32it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.85it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.44it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.75it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.89it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.79it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.82it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.92it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.97it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.04it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.08it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.15it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.21it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.24it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.26it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.28it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.25it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.22it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.21it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.23it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.22it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.22it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.20it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.18it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.06it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.03it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  1.0807 sec |   1.0806 sec) Done, loading materials and images...
+Progress:  33.33%    (  1.0808 sec |   1.0807 sec) Done, building geometries (verts:70146 faces:140412 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  1.6648 sec |   1.6647 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  1.6649 sec |   1.6649 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 37.49
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000325 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000137 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000175 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000040 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000050 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (1.697360 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000313 sec)
+
+FBX export fetch remaining...
+	Done (0.000024 sec)
+
+FBX export fetch animations...
+	Done (0.000015 sec)
+
+export finished in 1.7055 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:41:33] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.9880433082580566
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.0043795108795166016
+ pd2:0.009526968002319336
+ pd3:2.674851417541504
+ pd4:7.045317649841309
+ pd5:42.331745624542236
+ all:52.065821170806885
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 146.33it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 53.82it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.40it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.88it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.42it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.68it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.86it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.72it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.78it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.83it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.89it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.90it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.89it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.93it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.04it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.12it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.17it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.88it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.95it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.90it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.88it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.97it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.04it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.08it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.10it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.13it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.18it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.92it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0001 sec |   0.0001 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0002 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  1.0515 sec |   1.0513 sec) Done, loading materials and images...
+Progress:  33.33%    (  1.0516 sec |   1.0514 sec) Done, building geometries (verts:70278 faces:140756 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  1.5692 sec |   1.5690 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  1.5693 sec |   1.5692 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 34.55
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000358 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000028 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000147 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000137 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000040 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000045 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (1.724330 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000313 sec)
+
+FBX export fetch remaining...
+	Done (0.000022 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 1.7322 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:42:57] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0150864124298096
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.0076863765716552734
+ pd2:0.01908588409423828
+ pd3:2.8726212978363037
+ pd4:7.019363641738892
+ pd5:39.60550665855408
+ all:49.524263858795166
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 220.45it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 124.75it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.41it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.26it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.67it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.88it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 17.00it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.08it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.10it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.06it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.09it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.09it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.13it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.11it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.14it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.12it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.05it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.01it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.02it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.06it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.07it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.08it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.09it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.00it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.03it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.07it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.05it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.01it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.5288 sec |   0.5287 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.5289 sec |   0.5288 sec) Done, building geometries (verts:35110 faces:70236 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.7829 sec |   0.7828 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.7829 sec |   0.7829 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 4.75
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000344 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000025 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000177 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000138 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000040 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000047 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000025 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.756747 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000307 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.7629 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:45:09] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.994086742401123
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.005688667297363281
+ pd2:0.00853109359741211
+ pd3:2.823134422302246
+ pd4:6.620076656341553
+ pd5:7.261810064315796
+ all:16.71924090385437
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 54.14it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 126.17it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.36it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.03it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.55it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.85it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.98it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.90it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.92it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.90it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.94it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.89it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.96it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.87it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.88it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.95it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.94it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.02it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.92it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.98it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.71it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.82it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.86it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 16.94it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.01it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.01it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.00it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.88it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.4307 sec |   0.4305 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.4308 sec |   0.4307 sec) Done, building geometries (verts:30010 faces:60024 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.6510 sec |   0.6509 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.6511 sec |   0.6510 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 4.50
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000348 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000137 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000128 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000041 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000045 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.588619 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000289 sec)
+
+FBX export fetch remaining...
+	Done (0.000021 sec)
+
+FBX export fetch animations...
+	Done (0.000015 sec)
+
+export finished in 0.5943 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:45:38] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.016470193862915
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.019428253173828125
+ pd2:0.008438348770141602
+ pd3:3.339108943939209
+ pd4:6.501925230026245
+ pd5:6.76338529586792
+ all:16.632286071777344
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 174.23it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 112.42it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.47it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.03it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.54it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.59it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.56it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.64it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.71it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.79it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.85it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.84it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.84it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.90it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.94it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.95it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.95it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.99it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.99it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.01it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.01it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.02it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.03it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.02it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.01it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.00it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.96it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.86it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.5188 sec |   0.5187 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.5189 sec |   0.5188 sec) Done, building geometries (verts:34156 faces:68328 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.7724 sec |   0.7724 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.7725 sec |   0.7725 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 4.77
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000354 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000143 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000134 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000038 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000046 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.762053 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000276 sec)
+
+FBX export fetch remaining...
+	Done (0.000021 sec)
+
+FBX export fetch animations...
+	Done (0.000016 sec)
+
+export finished in 0.7679 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 11:46:07] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0232603549957275
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.006925344467163086
+ pd2:0.009571075439453125
+ pd3:2.8171775341033936
+ pd4:6.5725932121276855
+ pd5:7.285240888595581
+ all:16.691508054733276
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 452.41it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 217.95it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.40it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.90it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.53it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.84it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.91it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.01it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.04it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.05it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.08it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.10it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.12it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.15it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.16it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.15it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.18it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.02it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.05it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.08it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.12it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.14it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.19it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.23it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.23it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.20it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.20it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.05it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2403 sec |   0.2402 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2404 sec |   0.2403 sec) Done, building geometries (verts:15798 faces:31600 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3584 sec |   0.3583 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3585 sec |   0.3585 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.87
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000312 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000025 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000142 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000129 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000039 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000049 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000032 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.325632 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000259 sec)
+
+FBX export fetch remaining...
+	Done (0.000015 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.3305 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:41:09] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.987872838973999
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.0028731822967529297
+ pd2:0.00505518913269043
+ pd3:2.7670609951019287
+ pd4:5.635196924209595
+ pd5:3.294485569000244
+ all:11.704671859741211
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 326.53it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 141.61it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.41it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.90it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.48it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.66it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.85it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.96it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.96it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.04it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.09it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.97it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.88it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.83it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.80it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.90it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.94it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.74it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.88it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.98it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.98it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.96it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.00it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.01it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.99it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.05it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.09it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.89it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2609 sec |   0.2608 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2610 sec |   0.2609 sec) Done, building geometries (verts:19066 faces:38128 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3957 sec |   0.3956 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3957 sec |   0.3957 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 2.57
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000314 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000030 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000150 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000134 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000043 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000055 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.412287 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000294 sec)
+
+FBX export fetch remaining...
+	Done (0.000018 sec)
+
+FBX export fetch animations...
+	Done (0.000012 sec)
+
+export finished in 0.4172 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:55:12] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.015442132949829
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.0040683746337890625
+ pd2:0.007531404495239258
+ pd3:2.921173334121704
+ pd4:5.937240839004517
+ pd5:4.146236419677734
+ all:13.016250371932983
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 271.97it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 152.64it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.49it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.93it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.46it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.73it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.84it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.91it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.99it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.03it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.05it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.07it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.08it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.08it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.10it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.09it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.10it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.09it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.09it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.07it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.07it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.04it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.04it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.05it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.01it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.00it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.00it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.97it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2706 sec |   0.2705 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2707 sec |   0.2706 sec) Done, building geometries (verts:19342 faces:38680 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.4134 sec |   0.4133 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.4135 sec |   0.4134 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 2.09
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000243 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000133 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000119 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000036 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000050 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000053 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.398605 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000311 sec)
+
+FBX export fetch remaining...
+	Done (0.000024 sec)
+
+FBX export fetch animations...
+	Done (0.000018 sec)
+
+export finished in 0.4037 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:56:46] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0015006065368652
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.004186153411865234
+ pd2:0.006995677947998047
+ pd3:2.8154659271240234
+ pd4:5.868401288986206
+ pd5:3.675895929336548
+ all:12.37094497680664
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 201.96it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 146.31it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_2024-01-07-16-54-58_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.22it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.79it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.37it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.71it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.86it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.94it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.72it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.74it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.81it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.79it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.82it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.89it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.91it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.90it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.88it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.92it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.95it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.95it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.94it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.97it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.98it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.04it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.10it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.08it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.12it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.87it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2627 sec |   0.2626 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2628 sec |   0.2627 sec) Done, building geometries (verts:18512 faces:37020 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.4102 sec |   0.4101 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.4103 sec |   0.4103 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 2.13
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000320 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000026 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000153 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000146 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000044 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000050 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.392073 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000270 sec)
+
+FBX export fetch remaining...
+	Done (0.000022 sec)
+
+FBX export fetch animations...
+	Done (0.000033 sec)
+
+export finished in 0.3972 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:58:46] "POST /get_fbx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 12:59:09] "[31m[1mPOST /get_fbx HTTP/1.1[0m" 401 -
+time cost: 3.017578125
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.005927562713623047
+ pd2:0.007270097732543945
+ pd3:2.7714271545410156
+ pd4:5.854920864105225
+ pd5:3.7091784477233887
+ all:12.348724126815796
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 240.09it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 259.20it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.20it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.02it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.43it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.76it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.84it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.96it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.90it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.90it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.62it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.70it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.63it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.74it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.74it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.76it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.75it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.84it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.88it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.86it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.83it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.80it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.78it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 16.81it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.79it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 16.84it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.77it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.74it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.6251 sec |   0.6250 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.6252 sec |   0.6251 sec) Done, building geometries (verts:40137 faces:80286 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.9345 sec |   0.9344 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.9346 sec |   0.9345 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 5.29
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000329 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000136 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000127 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000054 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000046 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.832229 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000272 sec)
+
+FBX export fetch remaining...
+	Done (0.000020 sec)
+
+FBX export fetch animations...
+	Done (0.000014 sec)
+
+export finished in 0.8381 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:11:09] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0403285026550293
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.005616903305053711
+ pd2:0.004317045211791992
+ pd3:2.7965750694274902
+ pd4:6.9446070194244385
+ pd5:8.19623064994812
+ all:17.947346687316895
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 133.90it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 73.06it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.27it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.88it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.51it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.80it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.97it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.07it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.09it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.12it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.13it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.08it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.07it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.11it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.97it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.98it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 16.99it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.97it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.98it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.01it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.01it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.03it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.04it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.10it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.12it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.09it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.06it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.97it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.5071 sec |   0.5070 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.5072 sec |   0.5071 sec) Done, building geometries (verts:33802 faces:67628 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.7565 sec |   0.7564 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.7565 sec |   0.7565 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 4.19
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000344 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000146 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000137 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000039 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000049 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.692040 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000294 sec)
+
+FBX export fetch remaining...
+	Done (0.000018 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.6978 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:16:01] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.997847318649292
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.008396148681640625
+ pd2:0.014243841171264648
+ pd3:2.849766492843628
+ pd4:6.414011001586914
+ pd5:6.59909200668335
+ all:15.885509490966797
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 92.44it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 116.87it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.35it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.76it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.26it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.66it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.89it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.03it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.11it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.15it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.16it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.19it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.18it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.16it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.16it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.18it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.21it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.19it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.08it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.01it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.04it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.99it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.05it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.10it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.05it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.08it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.12it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.01it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2311 sec |   0.2309 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2311 sec |   0.2310 sec) Done, building geometries (verts:16274 faces:32552 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3542 sec |   0.3541 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3543 sec |   0.3542 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.72
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000253 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000147 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000132 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000038 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000047 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.339097 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000286 sec)
+
+FBX export fetch remaining...
+	Done (0.000018 sec)
+
+FBX export fetch animations...
+	Done (0.000010 sec)
+
+export finished in 0.3439 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:18:06] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.991487979888916
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.01194000244140625
+ pd2:0.009206533432006836
+ pd3:3.0037379264831543
+ pd4:5.730212688446045
+ pd5:3.1433870792388916
+ all:11.898484230041504
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 132.60it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 73.63it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.58it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.11it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.63it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.73it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.90it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.98it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.99it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.00it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.05it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.10it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.12it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.12it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.01it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.04it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.11it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.14it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.12it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.06it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.00it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.98it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.93it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 16.92it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.85it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 16.87it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.93it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.94it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.3712 sec |   0.3711 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.3713 sec |   0.3712 sec) Done, building geometries (verts:26230 faces:52456 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.5650 sec |   0.5649 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.5651 sec |   0.5651 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 3.41
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000366 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000026 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000148 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000137 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000039 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000047 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.531741 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000287 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000012 sec)
+
+export finished in 0.5371 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:19:05] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0047903060913086
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.008568286895751953
+ pd2:0.014137744903564453
+ pd3:2.8394112586975098
+ pd4:6.259652137756348
+ pd5:5.364347696304321
+ all:14.486117124557495
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 222.65it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 142.33it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.34it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.15it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.68it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.88it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 17.01it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.10it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.14it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.12it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.78it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.74it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.89it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.96it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.05it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.11it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.12it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.07it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.09it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.13it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.15it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.19it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.16it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.19it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.15it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.16it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.15it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.02it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.4956 sec |   0.4955 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.4957 sec |   0.4956 sec) Done, building geometries (verts:30392 faces:60780 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.7244 sec |   0.7243 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.7245 sec |   0.7245 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 3.82
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000633 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000030 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000140 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000191 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000040 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000048 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000032 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.674391 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000296 sec)
+
+FBX export fetch remaining...
+	Done (0.000023 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.6804 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:20:20] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.989694118499756
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.0054399967193603516
+ pd2:0.007501125335693359
+ pd3:2.837109327316284
+ pd4:6.306139945983887
+ pd5:6.195718288421631
+ all:15.351908683776855
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 76.25it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 39.68it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.41it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.89it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.47it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.68it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.83it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.82it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.69it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.82it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.88it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.94it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.95it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.97it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.96it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.04it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.10it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.16it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.09it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.11it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.18it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.20it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.20it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.21it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.21it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.25it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.18it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.98it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.1634 sec |   0.1633 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.1635 sec |   0.1634 sec) Done, building geometries (verts:11826 faces:23648 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.2456 sec |   0.2454 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.2456 sec |   0.2455 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.11
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000265 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000140 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000128 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000051 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000042 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.235169 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000282 sec)
+
+FBX export fetch remaining...
+	Done (0.000020 sec)
+
+FBX export fetch animations...
+	Done (0.000019 sec)
+
+export finished in 0.2398 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:22:09] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.000683546066284
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.01413869857788086
+ pd2:0.02579212188720703
+ pd3:3.0029444694519043
+ pd4:5.4898295402526855
+ pd5:2.2675557136535645
+ all:10.800260543823242
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 98.57it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 64.91it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.34it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.31it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.65it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.91it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 17.03it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.92it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.02it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.10it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.11it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.14it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.14it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.14it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.11it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.13it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.04it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.04it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.03it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.08it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.11it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.11it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.11it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.06it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.89it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 16.96it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.02it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.00it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.1784 sec |   0.1782 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.1784 sec |   0.1783 sec) Done, building geometries (verts:12780 faces:25556 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.2733 sec |   0.2732 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.2733 sec |   0.2733 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.32
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000274 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000026 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000140 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000128 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000038 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000046 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.256714 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000270 sec)
+
+FBX export fetch remaining...
+	Done (0.000020 sec)
+
+FBX export fetch animations...
+	Done (0.000013 sec)
+
+export finished in 0.2614 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 13:26:11] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.9941048622131348
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.01091909408569336
+ pd2:0.015970706939697266
+ pd3:2.9221866130828857
+ pd4:5.569484233856201
+ pd5:2.5785062313079834
+ all:11.097066879272461
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 345.27it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 240.04it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.51it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.30it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.77it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.92it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 17.07it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.11it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.15it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.18it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.20it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.17it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.20it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.22it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.21it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.23it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.23it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.07it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:01<00:00, 17.02it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.02it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.12it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.16it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.19it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.17it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.21it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.22it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.17it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.10it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2261 sec |   0.2260 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2262 sec |   0.2261 sec) Done, building geometries (verts:15406 faces:30816 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3431 sec |   0.3430 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3431 sec |   0.3431 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.57
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000247 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000132 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000119 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000037 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000043 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.305786 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000273 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000012 sec)
+
+export finished in 0.3103 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 16:59:21] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.978268623352051
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.004169940948486328
+ pd2:0.004593372344970703
+ pd3:2.907632827758789
+ pd4:5.639555215835571
+ pd5:2.941152811050415
+ all:11.497104167938232
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 185.84it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 161.34it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.40it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.97it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.59it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.92it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 17.10it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.18it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.22it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.07it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.10it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.99it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.06it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.13it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.19it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.20it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.23it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.23it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:01<00:00, 17.28it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.26it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.11it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.18it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.22it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.26it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.25it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.27it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.32it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.12it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2665 sec |   0.2664 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2666 sec |   0.2665 sec) Done, building geometries (verts:19388 faces:38772 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.4046 sec |   0.4045 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.4046 sec |   0.4046 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 2.06
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000309 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000149 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000128 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000042 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000046 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.391533 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000276 sec)
+
+FBX export fetch remaining...
+	Done (0.000021 sec)
+
+FBX export fetch animations...
+	Done (0.000012 sec)
+
+export finished in 0.3965 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 20:56:53] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 2.974513053894043
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.006622791290283203
+ pd2:0.006659746170043945
+ pd3:2.9104249477386475
+ pd4:5.758199691772461
+ pd5:3.681389808654785
+ all:12.36329698562622
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 151.95it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 168.03it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.46it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.11it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.51it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.66it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.71it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.69it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 16.74it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:02, 16.89it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.89it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.91it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.95it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.00it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.98it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.04it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.05it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.06it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.72it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.67it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.78it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.80it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.64it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 16.70it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 16.72it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 16.63it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.48it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 16.73it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2293 sec |   0.2292 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2295 sec |   0.2294 sec) Done, building geometries (verts:15364 faces:30740 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3457 sec |   0.3456 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3458 sec |   0.3458 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.57
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000265 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000026 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000149 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000136 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000041 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000053 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000032 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.314382 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000286 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000013 sec)
+
+export finished in 0.3192 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 20:57:32] "POST /get_fbx HTTP/1.1" 200 -
+time cost: 3.0416958332061768
+step 1 sucess
+(64, 64, 64)
+FBX conversion completed successfully.
+pd1:0.007535457611083984
+ pd2:0.0064449310302734375
+ pd3:2.9583351612091064
+ pd4:5.823750019073486
+ pd5:2.9760358333587646
+ all:11.772101402282715
+
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 271.46it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 248.05it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.37it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 16.28it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.71it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.94it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.90it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 17.00it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.06it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.13it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.13it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.15it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.14it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.14it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.12it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.09it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.00it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 16.99it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 17.01it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.08it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.11it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.13it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.15it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.02it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.06it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.12it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.14it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.03it/s]
+time cost: 2.990074634552002
+step 1 sucess
+(64, 64, 64)
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 247.32it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 230.29it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   2%|▏         | 1/50 [00:00<00:05,  8.95it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:10,  4.44it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:05,  8.19it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+sampling loop time step:  12%|█▏        | 6/50 [00:00<00:04, 10.83it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:03, 12.68it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 13.85it/s]sampling loop time step:  24%|██▍       | 12/50 [00:01<00:02, 14.76it/s]sampling loop time step:  28%|██▊       | 14/50 [00:01<00:02, 15.35it/s]sampling loop time step:  32%|███▏      | 16/50 [00:01<00:02, 15.80it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 16.10it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 16.36it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 16.55it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 16.66it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 16.76it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 16.76it/s]sampling loop time step:  60%|██████    | 30/50 [00:02<00:01, 16.83it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:02<00:01, 16.86it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:02<00:00, 16.91it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 16.87it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 16.87it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 16.85it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 16.82it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 16.83it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:03<00:00, 16.81it/s]Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2099 sec |   0.2098 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2100 sec |   0.2099 sec) Done, building geometries (verts:14213 faces:28426 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.3142 sec |   0.3140 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.3142 sec |   0.3141 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 1.55
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000264 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000025 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000145 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000130 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000039 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000050 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.282313 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000266 sec)
+
+FBX export fetch remaining...
+	Done (0.000017 sec)
+
+FBX export fetch animations...
+	Done (0.000010 sec)
+
+export finished in 0.2870 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 00:58:01] "POST /get_fbx HTTP/1.1" 200 -
+sampling loop time step:  96%|█████████▌| 48/50 [00:03<00:00, 16.73it/s]sampling loop time step: 100%|██████████| 50/50 [00:03<00:00, 16.83it/s]sampling loop time step: 100%|██████████| 50/50 [00:03<00:00, 15.30it/s]
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 00:58:04] "[31m[1mPOST /get_fbx HTTP/1.1[0m" 405 -
+FBX conversion completed successfully.
+pd1:0.004918813705444336
+ pd2:0.004460573196411133
+ pd3:3.0765278339385986
+ pd4:8.241527318954468
+ pd5:2.888091802597046
+ all:14.215526342391968
+
+time cost: 3.322176218032837
+step 1 sucess
+(64, 64, 64)
+开始处理......
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 336.70it/s]
+Done: VR_Sketch/CVPR11.26/OFF_data/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch
+Processing data:   0%|          | 0/1 [00:00<?, ?it/s]Processing data: 100%|██████████| 1/1 [00:00<00:00, 239.20it/s]
+output_path/step3
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+output_path/step3/1a6f615e8b1b5ae4dbbc9440457e303e_model_w_Sketcher_sketch.npy
+sampling loop time step:   0%|          | 0/50 [00:00<?, ?it/s]sampling loop time step:   4%|▍         | 2/50 [00:00<00:03, 15.42it/s]sampling loop time step:   8%|▊         | 4/50 [00:00<00:02, 15.83it/s]sampling loop time step:  12%|█▏        | 6/50 [00:00<00:02, 16.23it/s]sampling loop time step:  16%|█▌        | 8/50 [00:00<00:02, 16.68it/s]sampling loop time step:  20%|██        | 10/50 [00:00<00:02, 16.87it/s]sampling loop time step:  24%|██▍       | 12/50 [00:00<00:02, 16.95it/s]sampling loop time step:  28%|██▊       | 14/50 [00:00<00:02, 17.03it/s]sampling loop time step:  32%|███▏      | 16/50 [00:00<00:01, 17.11it/s]sampling loop time step:  36%|███▌      | 18/50 [00:01<00:01, 17.16it/s]sampling loop time step:  40%|████      | 20/50 [00:01<00:01, 17.20it/s]sampling loop time step:  44%|████▍     | 22/50 [00:01<00:01, 17.25it/s]sampling loop time step:  48%|████▊     | 24/50 [00:01<00:01, 17.27it/s]sampling loop time step:  52%|█████▏    | 26/50 [00:01<00:01, 17.29it/s]sampling loop time step:  56%|█████▌    | 28/50 [00:01<00:01, 17.28it/s]sampling loop time step:  60%|██████    | 30/50 [00:01<00:01, 17.30it/s]sampling loop time step:  64%|██████▍   | 32/50 [00:01<00:01, 17.30it/s]sampling loop time step:  68%|██████▊   | 34/50 [00:01<00:00, 17.32it/s]sampling loop time step:  72%|███████▏  | 36/50 [00:02<00:00, 17.32it/s]sampling loop time step:  76%|███████▌  | 38/50 [00:02<00:00, 17.28it/s]sampling loop time step:  80%|████████  | 40/50 [00:02<00:00, 17.25it/s]sampling loop time step:  84%|████████▍ | 42/50 [00:02<00:00, 17.28it/s]sampling loop time step:  88%|████████▊ | 44/50 [00:02<00:00, 17.30it/s]sampling loop time step:  92%|█████████▏| 46/50 [00:02<00:00, 17.28it/s]sampling loop time step:  96%|█████████▌| 48/50 [00:02<00:00, 17.26it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.18it/s]sampling loop time step: 100%|██████████| 50/50 [00:02<00:00, 17.11it/s]ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4732:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5220:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: (EE) ALCplaybackAlsa_open: Could not open playback device 'default': No such file or directory
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.5685 sec |   0.5684 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.5686 sec |   0.5685 sec) Done, building geometries (verts:38076 faces:76196 materials: 0 smoothgroups:0) ...
+Progress:  66.67%    (  0.8544 sec |   0.8543 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.8544 sec |   0.8544 sec) Finished importing: '/root/autodl-tmp/project/VR/output_path/sdf_0.obj'
+Progress: 100.00%Progress: 100.00%
+
+Smart Projection time: 4.92
+
+FBX export starting... '/root/autodl-tmp/project/VR/VR_Sketch/CVPR11.26/FBX_data/sdf_0.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000338 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000026 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000142 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000132 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000037 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000065 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000032 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.775344 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000305 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.7812 sec.
+Conversion completed: OBJ to FBX
+found bundled python: /root/autodl-tmp/project/blender-2.79-linux-glibc219-x86_64/2.79/python
+
+Blender quit
+
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 02:33:50] "POST /get_fbx HTTP/1.1" 200 -
